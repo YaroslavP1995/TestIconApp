@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestIconApp</string>
+    <string name="search">Search</string>
+    <string name="input_text">input text</string>
+</resources>
